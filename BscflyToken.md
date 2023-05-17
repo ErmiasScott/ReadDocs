@@ -21,16 +21,41 @@ on bsc about 6 years to fully distributed the 21 000 000 BF token for staker.
 
 ## How to start?
 1. Metamask
-
+    - open https://bscfly.ermiasscott.fun/
+    - connet wallet use metamask. (On desktop computer)
+    - If you use tokenpoket or other wallet on mobile, just copy https://bscfly.ermiasscott.fun/ to wallet expoler, and connet wallet use metamask.
+    - 
 2. BNB
+    make sure your account have BNB > 0.1
 
-3. Pancakeswap
+3. Mint Token
+click the button to mint 1000 Token, every address can only mint  1000.
+![image info](images/mint.png)
 
-4. Mint Token
+4. Add Liquidity On Pancakeswap.
+click this section will auto goto pancakeswap 
+![image info](images/addLiquidity.png)
 
-5. Add Liquidity On HoneySwap
+Note: Only add V2 Pool, We only support LP V2 Token Stake Rewards.
+![image info](images/v2.png)
 
-6. Stake LP Token 
+
+5. Stake LP Token 
+
+If You successed add Liquidity on pancakeswap at step 4. Your LP Not Staked Balance: 0.1 Cake-LP will Not be zero.
+Like this.
+![image info](images/stakeinfo.png)
+
+and Now You need to click Approve Button to approve stake contract can stake LP TOKEN.
+![image info](images/Approve.png)
+
+Wait some seconds for the transaction comfire on blockchain.
+
+Input Your LP token amount you need to stake. and clicke Stake Now Button
+![image info](images/staking.png)
+
+
+6. Trade On Pancakeswap
 
 7. Claim Rewards
 
