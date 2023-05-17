@@ -1,5 +1,5 @@
 # About This Project.
-Gnosis FLY is a Fair Mint && Stake && Reward defi game.Inspired by brc20 fair launch
+Bsc FLY is a Fair Mint && Stake && Reward defi game.Inspired by brc20 fair launch
 
 
 It provid An Absolutely Fair Way to Issue Tokens.
